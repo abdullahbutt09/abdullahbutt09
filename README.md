@@ -1,4 +1,4 @@
-👋 Hi, I’m abdullah butt.
+👋 Hi, I’m Abdullah Butt.
 
 👀 I’m interested in coding.
 
