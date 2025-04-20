@@ -4,8 +4,6 @@
 
 💡 I have a strong grasp of **C++** and a growing interest in **JavaScript** and **React**. I love building **CLI-based projects** and exploring **Data Structures & Algorithms**.
 
-🎯 My dream? To land a job at **Google** someday.
-
 🔐 I’m also interested in **cybersecurity**, and I enjoy diving into how things work under the hood.
 
 ---
