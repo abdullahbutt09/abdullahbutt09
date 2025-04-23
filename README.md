@@ -10,10 +10,10 @@
 
 ## 🚀 Tech I Work With
 
-- 🧠 Languages: C++, JavaScript (learning)
-- 🛠️ Tools: Git, GitHub, VS Code
-- 🌐 Web: HTML, CSS, basic animations
-- ⚙️ Currently Learning: React, JavaScript projects
+- 🧠 Languages: C++, JavaScript, react (learning).
+- 🛠️ Tools: Git, GitHub, VS Code.
+- 🌐 Web: React, Tailwind, Next.js.
+- ⚙️ Currently Learning: React, JavaScript projects.
 
 ---
 
