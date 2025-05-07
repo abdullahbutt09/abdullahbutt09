@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Abdullah Butt!
 
+![Profile views](https://komarev.com/ghpvc/?username=abdullahbutt09&color=blueviolet)
+
 🎓 I'm a university student, passionate about tech and always hungry to learn more.
 
 💡 I have a strong grasp of **C++** and a growing interest in **JavaScript** and **React**. I love building **CLI-based projects** and exploring **Data Structures & Algorithms**.
