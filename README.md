@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbutt09&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahbutt09&theme=radical&border_radius=5.5)](https://streak-stats.demolab.com/?user=abdullahbutt09)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdullahbutt09&theme=radical)](https://github.com/abdullahbutt09)
 
 <!---
 abdullahbutt09/abdullahbutt09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
