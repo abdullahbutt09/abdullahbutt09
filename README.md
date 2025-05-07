@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Butt!
 
-![Profile views](https://komarev.com/ghpvc/?username=abdullahbutt09&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=abdullahbutt09&color=blue)
 
 🎓 I'm a university student, passionate about tech and always hungry to learn more.
 
