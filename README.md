@@ -97,4 +97,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahbutt09&theme=dracula" height="250" alt="activity graph"/>
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote"/>
+</div>
+
 ###
