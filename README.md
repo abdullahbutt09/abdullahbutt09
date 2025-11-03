@@ -78,27 +78,33 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullahbutt09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=abdullahbutt09&theme=dracula&hide_border=false&border_radius=6" height="220" alt="streak graph"/>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abdullahbutt09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahbutt09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- GitHub Stats + Top Languages -->
+  <img src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abdullahbutt09&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahbutt09&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"/>
 </div>
 
+<br/>
+
 <div align="center">
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahbutt09&theme=dracula" height="250" alt="activity graph"/>
 </div>
 
+<br/>
+
 <div align="center">
+  <!-- Random Developer Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote"/>
 </div>
-
-###
