@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Abdullah Butt from pakistan.<br><br> 🔭 I’m working as a frontend developer.<br> 📚 I'm currently learning Backend & Databases<br> ⚡ In my free time I explore DSA LeetCode problems.</p>
+<p align="left">I'm Abdullah Butt from pakistan.<br><br> 🔭 I’m working as a frontend developer.<br> 📚 I'm currently learning Backend & Databases.<br> ⚡ In my free time I explore DSA LeetCode problems.</p>
 
 ###
 
