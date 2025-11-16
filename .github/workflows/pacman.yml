@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate pacman-contribution-graph.svg
-        uses: yoshi389111/pacman-contribution-graph@latest
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
