@@ -84,7 +84,7 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=abdullahbutt09&theme=dracula&hide_border=false&border_radius=6" height="220" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats-steel-nu.vercel.app/?user=abdullahbutt09&theme=dracula&hide_border=false&border_radius=6" height="220" alt="streak graph"/>
 </div>
 
 <br/>
