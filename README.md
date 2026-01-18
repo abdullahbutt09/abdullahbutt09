@@ -47,8 +47,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssql" height="45" alt="microsoft sql server logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" />
@@ -65,7 +63,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=oracle" height="45" alt="oracle logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
   <img width="12" />
