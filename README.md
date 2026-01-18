@@ -14,11 +14,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me 🚀</h3>
 
 ###
 
-<p align="left">I'm Abdullah Butt from pakistan.<br><br> 🔭 I’m working as a frontend developer.<br> 📚 I'm currently learning Backend & Databases.<br> ⚡ In my free time I explore DSA LeetCode problems.</p>
+- **🤖 Frontend Developer** passionate about building clean, scalable apps.  
+- 📚 Always exploring **React, Next.js, and backend & database optimizations.**  
+- 💻 Love experimenting with new tech stacks & building small SaaS tools.
+- 🎯 Goal: Become a **Full Stack Developer** and build **developer-first products.**  
+- ⚡ In my free time I explore **DSA LeetCode problems**.  
 
 ###
 
