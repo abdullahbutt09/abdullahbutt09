@@ -91,7 +91,7 @@
 
 <div align="center">
   <!-- GitHub Stats + Top Languages -->
-  <img src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abdullahbutt09&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dracula&hide_border=false"height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats-one-ruddy.vercel.app/api?username=abdullahbutt09&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dracula&hide_border=false"height="160" alt="stats graph"/> &nbsp;
   <img src="https://github-readme-stats-one-ruddy.vercel.app/api/top-langs?username=abdullahbutt09&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"/>
 </div>
 
