@@ -19,7 +19,7 @@
 - **🤖 Full-Stack Developer** passionate about building clean, scalable apps.  
 - 📚 Always exploring **React, Next.js, and backend & database optimizations.**  
 - 💻 Love experimenting with new tech stacks & building small SaaS tools.
-- 🎯 Goal: Become a **Full Stack Developer** and build **developer-first products.**  
+- 🛠️ Enjoy building real-world **SaaS products and developer-focused tools.** 
 - ⚡ In my free time I explore **DSA LeetCode problems**.  
 
 ###
@@ -60,18 +60,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdullahbutt09/abdullahbutt09/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<h3 align="left">🔥 My Stats</h3>
-
-###
+<h3 align="left">📊 GitHub Contributions Overview</h3>
 
 <div align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats-steel-nu.vercel.app/?user=abdullahbutt09&theme=dracula&hide_border=false&border_radius=6" height="220" alt="streak graph"/>
 </div>
 
-<br/>
+---
+<h3 align="left">💻 Commit History & Languages Breakdown</h3>
 
 <div align="center">
   <!-- GitHub Stats + Top Languages -->
@@ -79,14 +78,16 @@
   <img src="https://github-readme-stats-one-ruddy.vercel.app/api/top-langs?username=abdullahbutt09&layout=donut&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"/>
 </div>
 
-<br/>
+---
+<h3 align="left">📈 Contribution Graph</h3>
 
 <div align="center">
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahbutt09&theme=dracula" height="250" alt="activity graph"/>
 </div>
 
-<br/>
+---
+<h3 align="left">💬 Random Dev Quote</h3>
 
 <div align="center">
   <!-- Random Developer Quote -->
