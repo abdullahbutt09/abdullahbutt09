@@ -16,15 +16,26 @@
 
 <h3 align="left">About Me 🚀</h3>
 
-###
-
-- **🤖 Frontend Developer** passionate about building clean, scalable apps.  
+- **🤖 Full-Stack Developer** passionate about building clean, scalable apps.  
 - 📚 Always exploring **React, Next.js, and backend & database optimizations.**  
 - 💻 Love experimenting with new tech stacks & building small SaaS tools.
 - 🎯 Goal: Become a **Full Stack Developer** and build **developer-first products.**  
 - ⚡ In my free time I explore **DSA LeetCode problems**.  
 
 ###
+---
+### 🏆 Featured Projects
+
+[**LearnMate**](https://github.com/abdullahbutt09/learn-mate) → A peer-learning platform that matches users based on skill levels to collaborate, learn together, and practice built with modern web tech.
+
+[![Website](https://img.shields.io/badge/Visit-Site-black?logo=vercel)](https://learn-mate-seven.vercel.app)&nbsp;
+![npm](https://img.shields.io/npm/v/react-night-toggle?color=orange&label=version)
+
+---
+[**React-Card-Game**](https://github.com/abdullahbutt09/learn-mate) → A React-based memory card game where players match pairs, track moves, and complete the game with smooth UI animations.
+
+[![Website](https://img.shields.io/badge/Visit-Site-blue?logo=vercel)](https://react-card-game-nine.vercel.app)&nbsp;
+![npm](https://img.shields.io/npm/v/react-night-toggle?color=purple&label=version)
 
 <h3 align="left">🛠 Language and tools</h3>
 
