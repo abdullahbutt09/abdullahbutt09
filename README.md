@@ -32,6 +32,12 @@
 ![npm](https://img.shields.io/npm/v/react-night-toggle?color=orange&label=version)
 
 ---
+[**DigitalWallet**](https://github.com/abdullahbutt09/digital-wallet) → A secure and feature-rich digital wallet backend built with modern technologies to handle user accounts, transactions, and wallet operations.
+
+[![Website](https://img.shields.io/badge/Visit-Site-teal?logo=vercel)](https://digital-wallet-tau.vercel.app/)&nbsp;
+![npm](https://img.shields.io/npm/v/react-night-toggle?color=brown&label=version)
+
+---
 [**React-Card-Game**](https://github.com/abdullahbutt09/learn-mate) → A React-based memory card game where players match pairs, track moves, and complete the game with smooth UI animations.
 
 [![Website](https://img.shields.io/badge/Visit-Site-blue?logo=vercel)](https://react-card-game-nine.vercel.app)&nbsp;
