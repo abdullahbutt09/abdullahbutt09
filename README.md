@@ -41,18 +41,34 @@
 
 ## ⚡ About Me
 
-```javascript
-const abdullah = {
-  role        : "Full Stack Developer",
-  stack       : ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-  currentFocus: "Building SaaS products & production-grade backends",
-  learning    : ["Redis", "System Design", "DSA"],
-  funFact     : "Always curious about how things work under the hood.",
-  availableFor: "Open Source & Professional Opportunities"
-};
-```
+```yaml
+name: Abdullah Butt
+role: Full Stack Developer
 
----
+focus:
+  - Backend Development
+  - Full-Stack Web Applications
+  - Clean Architecture
+
+tech:
+  frontend: React • Next.js • Tailwind CSS
+  backend: Node.js • Express.js
+  database: MongoDB
+
+currently_learning:
+  - Redis
+  - System Design
+  - Data Structures & Algorithms
+
+currently_building:
+  - SaaS Products
+  - Production-grade REST APIs
+
+looking_for:
+  - Internship
+  - Open Source
+  - Full-time Opportunities
+```
 
 ## 🚀 Featured Projects
 
