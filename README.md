@@ -92,11 +92,11 @@ looking_for:
 
 ### [🎬 Stream-Core | YouTube-like Backend](https://github.com/abdullahbutt09/stream-core)
 
-- Production-style backend architecture
-- Video uploads and management
-- Playlists and subscriptions
-- Likes, comments, and user interactions
-- Dashboard analytics using MongoDB aggregation pipelines
+- 🏗️ Production-style backend architecture
+- 🎥 Video uploads and management
+- 📂 Playlists and subscriptions
+- ❤️ Likes, 💬 comments, and user interactions
+- 📊 Dashboard analytics using MongoDB aggregation pipelines
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
