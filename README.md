@@ -72,8 +72,14 @@ looking_for:
 
 ## 🚀 Featured Projects
 
-### 🧠 LearnMate — Peer Learning Platform
-> A peer-learning platform that matches users by skill level for real-time collaboration, practice, and growth.
+### [🧠 LearnMate | Peer Learning Platform](https://github.com/abdullahbutt09/learn-mate)
+
+- 🤝 Skill-based user matching
+- 👥 Real-time peer collaboration
+- 📚 Collaborative learning sessions
+- 💻 Practice coding together
+- 🚀 Skill growth and progress tracking
+- 📱 Modern responsive interface
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
@@ -82,13 +88,15 @@ looking_for:
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdullahbutt09/learn-mate)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white)](https://learn-mate-seven.vercel.app)
-
 ---
 
-### 🎬 Stream-Core — YouTube-like Backend
-> Production-style backend with video uploads, playlists, subscriptions, likes, comments & dashboard analytics via MongoDB aggregation pipelines.
+### [🎬 Stream-Core | YouTube-like Backend](https://github.com/abdullahbutt09/stream-core)
+
+- Production-style backend architecture
+- Video uploads and management
+- Playlists and subscriptions
+- Likes, comments, and user interactions
+- Dashboard analytics using MongoDB aggregation pipelines
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -96,12 +104,16 @@ looking_for:
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdullahbutt09/stream-core)
-
 ---
 
-### 💳 DigitalWallet — Secure Wallet Application
-> A secure digital wallet application for managing user accounts, wallet balances, and transactions with authentication and a modern responsive interface.
+### [💵 DigitalWallet | Secure Wallet Application](https://github.com/abdullahbutt09/digital-wallet)
+
+- 🔐 Secure user authentication
+- 👤 User account management
+- 💰 Wallet balance management
+- 💸 Transaction handling
+- 📜 Transaction history
+- 📱 Modern responsive interface
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
@@ -110,13 +122,16 @@ looking_for:
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdullahbutt09/digital-wallet)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white)](https://digital-wallet-tau.vercel.app/)
-
 ---
 
-### 🎨 Collab Whiteboard — Real-time Collaborative Whiteboard
-> A collaborative whiteboard that enables multiple users to draw, sketch, and brainstorm together in real time using WebSockets and HTML Canvas.
+### [🎨 Collab Whiteboard | Real-time Collaborative Whiteboard](https://github.com/abdullahbutt09/collab-whiteboard)
+
+- 🎨 Real-time collaborative drawing
+- 👥 Multi-user collaboration
+- ⚡ Live synchronization with WebSockets
+- ✏️ Interactive sketching using HTML Canvas
+- 💡 Brainstorming and idea sharing
+- 📱 Modern responsive interface
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -124,9 +139,6 @@ looking_for:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat&logo=html5&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdullahbutt09/collab-whiteboard)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white)](https://collab-whiteboard-rho.vercel.app/)
 
 ---
 
